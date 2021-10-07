@@ -18,6 +18,15 @@
 <!-- Wakatime https://github.com/athul/waka-readme --> 
 
 <!--START_SECTION:waka-->
+```text
+Week: 30 September, 2021 - 06 October, 2021
+
+Other        40 hrs 51 mins  ███████████████████▒░░░░░   77.96 % 
+EJS          4 hrs 24 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
+CSS          3 hrs 3 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+JavaScript   2 hrs 50 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+HTML         59 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
+```
 <!--END_SECTION:waka-->
 
 
