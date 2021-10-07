@@ -39,6 +39,6 @@
 <p><a href="https://www.buymeacoffee.com/DenisFerrero"> <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="DenisFerrero" /></a></p><br><br>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=denisferrero&show_icons=true&locale=en&theme=radical" alt="denisferrero" />
+  <img src="https://github-readme-stats.vercel.app/api?username=denisferrero&show_icons=true&locale=en&theme=radical" alt="denisferrero" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=denisferrero&show_icons=true&locale=en&layout=compact&theme=radical" alt="denisferrero" />
 </p>
