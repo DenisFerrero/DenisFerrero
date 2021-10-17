@@ -19,7 +19,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 09 October, 2021 - 15 October, 2021
+Week: 10 October, 2021 - 16 October, 2021
 
 Other        40 hrs 51 mins  ███████████████████▒░░░░░   77.96 % 
 EJS          4 hrs 24 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
