@@ -19,7 +19,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 December, 2021 - 24 December, 2021
+Week: 19 December, 2021 - 25 December, 2021
 
 Other        15 hrs 43 mins  ██████████████████▒░░░░░░   73.14 % 
 Vue.js       2 hrs 23 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
